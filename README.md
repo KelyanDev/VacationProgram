@@ -13,4 +13,3 @@ Python program using our exported lesson's timetable to determine the vacation's
 
 >[!NOTE]
 > Do notes that this program works only with our calendar format  
-> Also note that for now this is experimental
