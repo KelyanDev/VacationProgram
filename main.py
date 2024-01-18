@@ -43,6 +43,9 @@ class Vacances():
         liste = list(temp_liste)
         liste = [element for element in liste if not isinstance(element, float)]
         liste = sorted(liste)
+        liste.remove('2A')
+        liste.remove('1ATP2') 
+        liste.remove('Intervenant à préciser')
         return liste
     
     ## Choix de l'enseignant, afin de choisir quel sera l'emploi du temps à analyser
