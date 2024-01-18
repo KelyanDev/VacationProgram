@@ -11,5 +11,8 @@
 
 Python program using our exported lesson's timetable to determine the vacation's period of the named professor
 
+Usable in console with the "main.py" file or with a GUI with the "gui.py" file 
+
 >[!NOTE]
-> Do notes that this program works only with our calendar format  
+> Do notes that this program works only with our calendar format
+> Please also notes that you need all files if you want everything to work
