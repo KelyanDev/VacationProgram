@@ -5,7 +5,6 @@
 <div align="center">
   <h3> Used Languages / Libraries </h3>
   <a href="https://www.w3schools.com/python/default.asp"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-  <a href="https://www.w3schools.com/python/numpy/default.asp"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
   <a href="https://www.w3schools.com/python/pandas/default.asp"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
 </div> <hr>
 
@@ -14,5 +13,5 @@ Python program using our exported lesson's timetable to determine the vacation's
 Usable in console with the "main.py" file or with a GUI with the "gui.py" file 
 
 >[!NOTE]
-> Do notes that this program works only with our calendar format
+> Do notes that this program works only with our calendar format  
 > Please also notes that you need all files if you want everything to work
